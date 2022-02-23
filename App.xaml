@@ -1,0 +1,19 @@
+﻿<Application x:Class="Digikala_Account_tools.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Digikala_Account_tools"
+                 xmlns:hc="https://handyorg.github.io/handycontrol"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <hc:ThemeResources AccentColor="#ef4056"/>
+                <hc:Theme/>
+                <!-- Other merged dictionaries here -->
+            </ResourceDictionary.MergedDictionaries>
+            <SolidColorBrush x:Key="PrimaryColor" Color="#ef4056" />
+            <SolidColorBrush x:Key="LightColor" Color="#feeaef" />
+            <!-- Other app resources here -->
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
