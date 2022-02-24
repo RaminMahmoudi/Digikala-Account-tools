@@ -11,6 +11,9 @@
 ## Requirements:
 - .NET Framework 4.7.2 and greater
 
+## NuGet packages
+- [LiveCharts](https://github.com/Live-Charts/Live-Charts)
+- [HandyControl](https://github.com/ghost1372/HandyControl)
 
 ## Screenshots:
 
