@@ -6,13 +6,13 @@
   <p>
     A simple gui windows program for extract account data and analyze the history of your purchases on Digikala.
   </p>
-  <p>
-    requirements: .NET Framework 4.7.2 and greater
-  </p>
+  </div>
+  
+## Requirements:
+- .NET Framework 4.7.2 and greater
 
-</div>
 
-## Screenshots
+## Screenshots:
 
 <div align="center">
 
